@@ -1,0 +1,28 @@
+h1 {
+    margin-left: 185px;
+}
+
+[class*="col-"] {
+    height: 40px;
+    background-color: #006CFA;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+}
+
+.green {
+    height: 60px;
+    padding: 10px;
+}
+
+.verde {
+    background-color: #04D960;
+}
+
+.due {
+    margin-top: 20px;
+}
+
+p {
+    font-size: 13px;
+}
