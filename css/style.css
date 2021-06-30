@@ -1,7 +1,3 @@
-h1 {
-    margin-left: 185px;
-}
-
 [class*="col-"] {
     height: 40px;
     background-color: #006CFA;
@@ -25,4 +21,8 @@ h1 {
 
 p {
     font-size: 13px;
+}
+
+.white {
+    background-color: white;
 }
